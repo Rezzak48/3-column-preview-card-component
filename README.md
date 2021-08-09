@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component
 
-This is a solution to the [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-ZobVnAJ1e). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,31 +23,31 @@ Users should be able to:
 
 ### Screenshot
 
-<!--
 ![](./DesignScreenshots/DesktopScreen.png)
-![](./DesignScreenshots/MobileVersion.png) -->
+![](./DesignScreenshots/MobileVersion.png)
+
+<!-- 1440 / 800 -->
+<!-- 375 / 1592 -->
 
 ### Links
 
-<!-- - Live Site URL: [Live Site URL:](https://thirsty-engelbart-a8a601.netlify.app/)
-- Solution URL: [Solution URL:](https://www.frontendmentor.io/solutions/profile-card-componment-html-and-css-Vk_EXSC04) -->
+- Live Site URL: [Live Site URL:](https://practical-banach-29de1b.netlify.app/)
+- Solution URL: [Solution URL:](https://www.frontendmentor.io/solutions/3column-preview-card-component-html-css-Z6-9PHUux)
 
 ## My process
 
 ### Built with
 
-<!-- - Semantic HTML5 markup
+- Semantic HTML5 markup
 - CSS custom properties
-- Flex box -->
+- Flex box
 
 ### What I learned
 
-<!-- I learned more about box shadow it was a cool thing, had basic idea on it but now more about and it structure which is :
-box-shadow: offset-x | offset-y | blur-radius | spread-radius | color -->
+I learned how to use max-width and max-height more wisely, since I didn't know their big role to make my design responsive in a good way
 
 ## Author
 
 <!-- - Website - [](NotAvailableForNow) -->
-
 - Frontend Mentor - [@Rezzak](https://www.frontendmentor.io/profile/errazakallah31)
 - Twitter - [@Rezzak_48](https://twitter.com/Rezzak_48)
