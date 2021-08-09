@@ -79,9 +79,13 @@ button:hover {
     padding: 25px 25px;
   }
   .cards {
-    flex-direction: column;
-    /* margin-top: 25px; */
-    align-items: stretch;
-    overflow: unset;
+    display: block;
+    max-height: none;
+    /* flex-direction: column; */
+    /* overflow: auto; */
+  }
+  .cards article {
+    display: block;
+    max-width: none;
   }
 }
